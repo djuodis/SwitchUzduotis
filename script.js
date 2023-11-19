@@ -1,6 +1,6 @@
 // 1. Užduotis
 
-const car = 'audi'   
+const car = 'Audi'   
 
 switch(car) {
     case 'BMW':
